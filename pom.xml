@@ -27,7 +27,7 @@
     <maven.surefire.plugin.version>3.0.0-M5</maven.surefire.plugin.version>
     <license.plugin.version>4.1</license.plugin.version>
 
-    <jetty-version>9.4.35.v20201120</jetty-version>
+    <jetty-version>9.4.43.v20210629</jetty-version>
   </properties>
 
   <modules>
