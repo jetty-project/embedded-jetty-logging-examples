@@ -35,6 +35,7 @@
     <module>jul-logging</module>
     <module>slf4j-logging</module>
     <module>mixed-logging</module>
+    <module>slf4j-log4j2-logging</module>
   </modules>
 
   <dependencies>
