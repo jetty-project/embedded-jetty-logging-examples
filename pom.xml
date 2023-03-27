@@ -25,7 +25,7 @@
     <maven.shade.plugin.version>3.4.1</maven.shade.plugin.version>
     <maven.source.plugin.version>3.2.1</maven.source.plugin.version>
     <maven.surefire.plugin.version>3.0.0</maven.surefire.plugin.version>
-    <license.plugin.version>4.1</license.plugin.version>
+    <license.plugin.version>4.2</license.plugin.version>
 
     <jetty.version>10.0.14</jetty.version>
     <slf4j.version>2.0.7</slf4j.version>
