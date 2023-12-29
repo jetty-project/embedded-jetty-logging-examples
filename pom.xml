@@ -28,7 +28,7 @@
     <license.plugin.version>4.3</license.plugin.version>
 
     <jetty.version>10.0.19</jetty.version>
-    <slf4j.version>2.0.9</slf4j.version>
+    <slf4j.version>2.0.10</slf4j.version>
   </properties>
 
   <modules>
